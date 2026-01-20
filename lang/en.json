@@ -1,0 +1,203 @@
+{
+  "_INSTRUCTIONS": {
+    "_info": "This file contains all English text for the website",
+    "_how_to_edit": "Only change the text after the colon (:) within quotation marks",
+    "_example": "From 'title': 'Old text' to 'title': 'New text'",
+    "_warning": "Do NOT change key names (text before colon) or file structure"
+  },
+  
+  "header": {
+    "_description": "Text displayed at the top of the page",
+    "title": "Stockholm Pipe Band",
+    "tagline": "The Pipes and Drums of the 1st Royal Engineers"
+  },
+  
+  "nav": {
+    "_description": "Menu texts (not visible on mobile)",
+    "home": "Home",
+    "about": "About the Band", 
+    "performances": "Performances",
+    "services": "Book Us",
+    "join": "Learn to Play",
+    "contact": "Contact"
+  },
+  
+  "hero": {
+    "_description": "Main section with large title and description",
+    "title": "Welcome to Stockholm Pipe Band",
+    "description": "Experience the powerful and majestic sound of traditional Scottish bagpipes. We carry on an ancient musical tradition with passion and pride.",
+    "bookButton": "Book Us",
+    "readMoreButton": "Read More",
+    "imageAlt": "Stockholm Pipe Band members in traditional Scottish kilts"
+  },
+  
+  "about": {
+    "_description": "Information about the band and its history",
+    "title": "About The Pipes and Drums of the 1st Royal Engineers",
+    "history": "Our history is long and The Pipes & Drums of the 1st Royal Engineers has been our name since 1987, when we became the honorary music corps of Svea Engineer Regiment. The band was founded already in 1968 as The Thistle Pipe Band by Per Colliander, who seriously introduced the Scottish Highland bagpipe to Sweden",
+    "specializedIn": "We specialize in:",
+    "specializations": [
+      "Traditional Scottish melodies and marching music",
+      "Ceremonies and solemn occasions", 
+      "Weddings and funerals",
+      "Festivals and cultural events",
+      "Corporate events and representations"
+    ],
+    "musiciansTitle": "Our Musicians",
+    "members": {
+      "_description": "Information about band members",
+      "lars": {
+        "name": "Lars Andersson",
+        "role": "Pipe Major",
+        "description": "25+ years experience, trained in Scotland",
+        "quote": "The bagpipe is more than an instrument – it's a way of life."
+      },
+      "erik": {
+        "name": "Erik Johansson", 
+        "role": "Senior Piper",
+        "description": "Specialist in traditional marching melodies",
+        "quote": "When the notes ring out, history and heart unite."
+      },
+      "oden": {
+        "name": "Oden Haglind",
+        "role": "Piper", 
+        "description": "Expertise in ceremonial music",
+        "quote": "It's quite nice to suck and blow into a sheep's stomach."
+      }
+    }
+  },
+  
+  "performances": {
+    "_description": "Section about performances and events",
+    "title": "Performances & Events",
+    "videoTitle": "See Us in Action",
+    "eventTypesTitle": "We Play At",
+    "eventTypes": {
+      "_description": "Different types of events we perform at",
+      "weddings": {
+        "title": "💒 Weddings",
+        "description": "Traditional processional music and ceremonial melodies"
+      },
+      "funerals": {
+        "title": "⚱️ Funerals", 
+        "description": "Dignified and respectful ceremonies with \"Amazing Grace\" and other classics"
+      },
+      "festivals": {
+        "title": "🎪 Festivals",
+        "description": "Cultural events, Highland Games and music festivals"
+      },
+      "corporate": {
+        "title": "🏢 Corporate Events",
+        "description": "Representation, inaugurations and special occasions"
+      }
+    }
+  },
+  
+  "services": {
+    "_description": "Booking information and prices",
+    "title": "Book Stockholm Pipe Band",
+    "subtitle": "Our Services",
+    "packages": {
+      "_description": "Different packages and pricing",
+      "solo": {
+        "title": "Solo Piper",
+        "description": "An experienced bagpiper for more intimate occasions",
+        "features": [
+          "30-45 minute performance",
+          "Traditional Scottish dress", 
+          "Personal repertoire according to your wishes"
+        ],
+        "price": "From 3,500 SEK",
+        "bookingTitle": "📞 How to book:",
+        "bookingInfo": "Call +46 70 123 45 67<br>Or email info@stockholmpipeband.se<br><em>At least 4 weeks notice recommended</em>"
+      },
+      "band": {
+        "title": "Full Band",
+        "description": "3-5 bagpipers for larger events",
+        "features": [
+          "1-2 hour performance",
+          "Complete traditional attire",
+          "Processions and marching music",
+          "Audience interaction"
+        ],
+        "price": "From 8,500 SEK",
+        "bookingTitle": "📞 How to book:",
+        "bookingInfo": "Call +46 70 123 45 67<br>Or email info@stockholmpipeband.se<br><em>At least 6 weeks notice recommended</em>"
+      },
+      "workshop": {
+        "title": "Workshop & Training",
+        "description": "Learn the basics of bagpipe playing",
+        "features": [
+          "Introduction to the instrument",
+          "Basic technique",
+          "History and tradition",
+          "Group discounts available"
+        ],
+        "price": "From 2,500 SEK",
+        "bookingTitle": "📞 How to book:",
+        "bookingInfo": "Call +46 70 123 45 67<br>Or email info@stockholmpipeband.se<br><em>Flexible times - contact us!</em>"
+      }
+    }
+  },
+  
+  "join": {
+    "_description": "Information about learning to play bagpipes",
+    "title": "Learn to Play Bagpipes",
+    "intro": "Are you interested in learning to play bagpipes or joining our band? We welcome new members at all levels!",
+    "pathTitle": "Your Journey to Bagpipe Playing",
+    "steps": [
+      {
+        "title": "1. Basic Course",
+        "description": "Start with practice chanter and learn basic fingerings"
+      },
+      {
+        "title": "2. Technical Development", 
+        "description": "Develop your technique with traditional exercises and scales"
+      },
+      {
+        "title": "3. Full Bagpipes",
+        "description": "Transition to full pipes when you master the basics"
+      },
+      {
+        "title": "4. Band Membership",
+        "description": "Join the band when you reach appropriate level"
+      }
+    ],
+    "requirementsTitle": "What's Required?",
+    "requirements": [
+      "Passion for music and Scottish culture",
+      "Patience and dedication to practice", 
+      "No previous musical experience necessary",
+      "We help you find the right instrument"
+    ]
+  },
+  
+  "contact": {
+    "_description": "Contact information",
+    "title": "Contact Us",
+    "bandName": "Stockholm Pipe Band",
+    "phone": "08-6440610",
+    "email": "info@sackpipa.com",
+    "address": "Sirapsvägen 9, 123 56 Farsta",
+    "followUs": "Follow Us",
+    "socialLinks": {
+      "_description": "Social media links",
+      "facebook": "Facebook",
+      "instagram": "Instagram", 
+      "youtube": "YouTube"
+    }
+  },
+  
+  "footer": {
+    "_description": "Text in the page footer",
+    "copyright": "© 2025 Stockholm Pipe Band. All rights reserved.",
+    "tagline": "Traditional Scottish bagpipe music since 2018"
+  },
+  
+  "meta": {
+    "_description": "Technical text (only change if necessary)",
+    "title": "Stockholm Pipe Band - Bagpipe Band",
+    "menuToggle": "Toggle menu",
+    "videoTitle": "Stockholm Pipe Band Performance"
+  }
+}
